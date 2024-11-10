@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Roman
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning NodeJS.
+- 💞️ I’m looking to collaborate on develop some kind of web platform to make some part of people's life comfortable and easier.
 - 📫 How to reach me ...
 
 <!---
